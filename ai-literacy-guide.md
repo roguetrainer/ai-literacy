@@ -3,6 +3,7 @@
 *Written by Claude Sonnet 4.5*
 
 ---
+![AI Classroom](./AI%20classroom.png)
 
 ## What AI Literacy Means
 
